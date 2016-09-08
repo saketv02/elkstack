@@ -1,3 +1,9 @@
+#Getting Started
+Install VMbox, Vagrant, ChefDK.
+Clone this repository, checkout this branch and run kitchen converge.
+It should bring the necessary VM up.
+
+
 # elkstack
 
 Elasticsearch, Logstash, and Kibana stack. Due to the recommendations of the
